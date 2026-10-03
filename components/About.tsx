@@ -87,6 +87,7 @@ export default function About() {
   return (
     <section ref={root} id="profile" className="relative px-4 py-24 md:px-8 md:py-36">
       <SectionLabel index="01" title="Profile" />
+      <h2 className="sr-only">Profile — about Ayinde Opeyemi</h2>
 
       <div className="mt-12 grid grid-cols-12 gap-x-4 gap-y-12 md:mt-20">
         <p className="about-statement col-span-12 text-[length:var(--text-statement)] font-light leading-[1.08] tracking-[-0.02em] lg:col-span-9">

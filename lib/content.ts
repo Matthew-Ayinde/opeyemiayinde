@@ -5,7 +5,7 @@ export const profile = {
   lastName: "Ayinde",
   fullName: "Ayinde Opeyemi",
   role: "Growth & Strategy Executive",
-  location: "Ogba, Lagos",
+  location: "Lagos",
   email: "ayindeopeyemi808@gmail.com",
   phone: "+234 902 356 7516",
   phoneHref: "tel:+2349023567516",
